@@ -2,7 +2,7 @@
 ##
 - 🔭 Atuo principalmente no Back-End
 - 🌱 Estou aprendendo: Java e Spring Boot
-- 📫 Como entrar em contato: joaodarwin.ip22@gmail.com
+- 📫 Contato: joaodarwin.ip22@gmail.com
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
