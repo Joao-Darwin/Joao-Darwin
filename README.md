@@ -37,8 +37,9 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ##
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 ##
 <div align="center">
   <a href="https://github.com/Joao-Darwin"/>
