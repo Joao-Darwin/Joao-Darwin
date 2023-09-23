@@ -37,6 +37,9 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ##
+<!--START_SECTION:activity-->
+
+##
 <div align="center">
   <a href="https://github.com/Joao-Darwin"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Joao-Darwin&&include_all_commits=true&count_private=false&theme=holi"/>
