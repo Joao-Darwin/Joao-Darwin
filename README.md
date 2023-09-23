@@ -1,7 +1,7 @@
 ### Hi! I'm João Darwin
 <div>
- <a href = "mailto:joaodarwin.ip22@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/joao-darwin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+ <a href = "mailto:joaodarwin.ip22@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/joao-darwin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
  <a href="https://stackoverflow.com/users/21286971/jo%c3%a3o-darwin?tab=profile" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </div>
  
