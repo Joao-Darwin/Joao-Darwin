@@ -1,4 +1,5 @@
-### Hi! I'm João Darwin
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&width=435&lines=Hello+World!;I'm+Jo%C3%A3o+Darwin;I'm+a+Software+Developer)](https://git.io/typing-svg)
+
 ![Joao-Darwin](https://komarev.com/ghpvc/?username=Joao-Darwin&color=orange&style=for-the-badge)
 <div>
  <a href="https://www.linkedin.com/in/joao-darwin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
@@ -7,13 +8,13 @@
 </div>
  
 ##
-## Technology
+## :computer: Technology
 ### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-### Database
+### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -32,15 +33,15 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-## I'm Learning
+## :books: I'm Learning
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-##
 
-<div align="center">
+## :octocat: GitHub's Stats
+<div align="center"> 
   <a href="https://github.com/Joao-Darwin"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Joao-Darwin&&include_all_commits=true&count_private=false&theme=holi"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Joao-Darwin&&include_all_commits=true&count_private=true&theme=holi"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Darwin&layout=compact&langs_count=7&theme=holi"/>
 </div>
 
@@ -49,3 +50,10 @@
   ![Snake animation](https://github.com/Joao-Darwin/Joao-Darwin/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
+
+## :flashlight: StackOverFlow's Stats
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=21286971&theme=dark)](https://stackoverflow.com/users/21286971/jo%c3%a3o-darwin)
+
+## 😄 Joke the today
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" />
