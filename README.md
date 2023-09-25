@@ -55,5 +55,5 @@
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=21286971&theme=dark)](https://stackoverflow.com/users/21286971/jo%c3%a3o-darwin)
 
-## 😄 Joke the today
+## 😄 Joke of the today
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" />
